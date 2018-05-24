@@ -1,4 +1,6 @@
 
+      <i id="chapitre03"></i>
+
 <section class="chapitre1">
   <div class="row">
     <h2 class="titre_h2_bandeau">Les faits marquants 2017</h2>
@@ -34,10 +36,10 @@
           <article>
             <h2 class="titre_majBoldColor">Mars</h2>
             <p>
-            <span class="bold">Colloque « Adaptation des infrastructures et des réseaux au changement climatique »</span> présidé par A.Girault, dans le cadre du Forum international de la Météo et du Climat, de l’association Météo et Climat, Université Pierre et Marie Curie, Paris 5<sup>e</sup>.
+            <span class="bold">Colloque «&#8239;Adaptation des infrastructures et des réseaux au changement climatique&#8239;»</span> présidé par A.Girault, dans le cadre du Forum international de la Météo et du Climat, de l’association Météo et Climat, Université Pierre et Marie Curie, Paris 5<sup>e</sup>.
             </p>
             <p>
-               <span class="bold">Atelier « Les Cahier d'Acteurs de l’APC »</span>, contribution collective des adhérents de l’Agence au nouveau Plan Climat de Paris.
+               <span class="bold">Atelier «&#8239;Les Cahier d'Acteurs de l’APC&#8239;»</span>, contribution collective des adhérents de l’Agence au nouveau Plan Climat de Paris.
             </p>
             <div class="img_container">
             <span class="credits_photo">© APC</span><img src="img/faits_marquants/002.jpg" alt=""></div>
@@ -70,7 +72,7 @@
          <article>
            <h2 class="titre_majBoldColor">Juin</h2>
            <p>
-            <span class="bold">« Les Actus du Climat »</span>, petit-déjeuner - décryptage de l’actualité des politiques publiques climat-énergie, avec la Ville de Paris, la Métropole du Grand Paris, l’APUR, l’IAU, l’ARENE.
+            <span class="bold">«&#8239;Les Actus du Climat&#8239;»</span>, petit-déjeuner - décryptage de l’actualité des politiques publiques climat-énergie, avec la Ville de Paris, la Métropole du Grand Paris, l’APUR, l’IAU, l’ARENE.
            </p>
            <p>
             <span class="bold">Immersion dans la ville active en faveur du climat</span> : </br>visite de chantier d’une copropriété en cours de rénovation visant un niveau basse consommation, organisée à destination des Parisiens, Paris 13<sup>e</sup> (9 visites de terrain en 2017).
@@ -81,13 +83,13 @@
          <article>
             <h2 class="titre_majBoldColor">Juillet-août</h2>
             <p>
-            <span class="bold">Café-Climat « Manger en 2050 »</span>, organisé dans un nouveau format plus participatif à la Recyclerie, Paris 18<sup>e</sup>, sur le thème de l’alimentation dans un futur bas-carbone.
+            <span class="bold">Café-Climat «&#8239;Manger en 2050&#8239;»</span>, organisé dans un nouveau format plus participatif à la Recyclerie, Paris 18<sup>e</sup>, sur le thème de l’alimentation dans un futur bas-carbone.
             </p>
             <p>
-            <span class="bold">« Réponses de pros »</span>, échanges bi-mensuels avec des professionnels ouverts aux Parisiens sur des sujets techniques, celui de juillet s’est tenu sur la régulation du chauffage collectif.
+            <span class="bold">«&#8239;Réponses de pros&#8239;»</span>, échanges bi-mensuels avec des professionnels ouverts aux Parisiens sur des sujets techniques, celui de juillet s’est tenu sur la régulation du chauffage collectif.
             </p>
             <p>
-            <span class="bold">« Solutions Pro »</span>, le rdv professionnel mensuel sur les offres techniques et nouveaux services   du marché de la rénovation, en partenariat avec Soliha.
+            <span class="bold">«&#8239;Solutions Pro&#8239;»</span>, le rdv professionnel mensuel sur les offres techniques et nouveaux services   du marché de la rénovation, en partenariat avec Soliha.
             </p>
             <div class="img_container">
             <span class="credits_photo">© APC</span><img src="img/faits_marquants/005.jpg" alt=""></div>
@@ -95,7 +97,7 @@
          <article>
             <h2 class="titre_majBoldColor">Septembre</h2>
             <p>
-              Événement presse multi-partenarial sur <span class="bold">« l’éco-gestionnaire : du bâtiment à l’îlot »</span>, nouveau métier de la transition énergétique avec Icade, Étude Chevreux, Caisse des Dépôts, Foncia IPM, Paris Habitat OPH, Efficacity.
+              Événement presse multi-partenarial sur <span class="bold">«&#8239;l’éco-gestionnaire : du bâtiment à l’îlot&#8239;»</span>, nouveau métier de la transition énergétique avec Icade, Étude Chevreux, Caisse des Dépôts, Foncia IPM, Paris Habitat OPH, Efficacity.
             </p>
             <p>
               Création de <span class="bold">3 webinaires à destination des syndics</span> sur la rénovation énergétique en copropriété : savoir décrypter DPE, AUDIT, DTG, Travaux embarqués.
@@ -116,7 +118,8 @@
              <p>
               <span class="bold"> 9<sup>e</sup> Salon des Indépendants de la Copropriété</span>: 150 contacts pris avec la maîtrise d’ouvrage.
              </p>
-             <div class="img_container">  <img src="img/faits_marquants/017.jpg" alt=""></div>
+             <div class="img_container">
+             <span class="credits_photo">© APC</span>   <img src="img/faits_marquants/017.jpg" alt=""></div>
           </article>
                   </div>
 
@@ -128,7 +131,7 @@
                Corner <span class="bold">CoachCopro</span> sur le Stand de l’ADEME et interventions au <span class="bold">Salon national de la Copropriété</span> : 300 personnes touchées.
              </p>
              <p>
-               <span class="bold">Café-Climat « JO2024 : Quel projet pour le Climat ?</span>  ou comment booster les politiques publiques environnementales et le secteur sportif en faveur du Climat : 60 professionnels présents, accueilli par  Les Grands Voisins - Eco-quartier Saint-Vincent de Paul en transition, Paris 14<sup>e</sup>.
+               <span class="bold">Café-Climat «&#8239;JO2024 : Quel projet pour le Climat ?</span>  ou comment booster les politiques publiques environnementales et le secteur sportif en faveur du Climat : 60 professionnels présents, accueilli par  Les Grands Voisins - Eco-quartier Saint-Vincent de Paul en transition, Paris 14<sup>e</sup>.
              </p>
              <div class="img_container">
              <span class="credits_photo">© APC</span> <img src="img/faits_marquants/004.jpg" alt=""></div>
@@ -143,7 +146,7 @@
           <article>
              <h2 class="titre_majBoldColor">Décembre</h2>
              <p>
-              <span class="bold">Lancement de l’édition 2017-2018 du défi Familles à Énergie positive avec la création d’un nouveau module « je trie mes déchets »</span>, challenge ludique sur les économies d’eau, d’énergie et de déchets dans son logement ouvert aux Parisiens et salariés d’entreprises.
+              <span class="bold">Lancement de l’édition 2017-2018 du défi Familles à Énergie positive avec la création d’un nouveau module «&#8239;je trie mes déchets&#8239;»</span>, challenge ludique sur les économies d’eau, d’énergie et de déchets dans son logement ouvert aux Parisiens et salariés d’entreprises.
              </p>
              <p>
                <span class="bold">Remise des Grands prix de l’innovation de Paris</span>  à  In Sun We trust, dans la catégorie Energie et Mobilité présidée par A. Girault.

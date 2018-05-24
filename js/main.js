@@ -94,6 +94,7 @@ function init_ContentScrollFx() {
         var bottom = elementBoundary.bottom;
         var height = elementBoundary.height;
         return ((top + height >= 0) && (height + window.innerHeight >= bottom));
+        // return ((top + height >= 0) && (height + document.getElementById("main_content").innerHeight >= bottom));
     }
 
     /* parallax fx */

@@ -12,8 +12,9 @@
                 <h2>Rapport d’activité 2017</h2>
             </div>
             <div class="hachures"></div>
-
       </header>
+
+      <i id="chapitre01"></i>
       <div class="saut_de_page"></div>
       <div class="row center ">
         <h2 class="titre_h2">
@@ -84,7 +85,9 @@ l’Agence Parisienne du Climat
 
 </section>
 
+      <i id="chapitre02"></i>
 
+<div class="saut_de_page"></div>
 
 <section class="chapitre1">
   <div class="row center">

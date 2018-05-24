@@ -101,14 +101,15 @@ section{
 */
 
 /*basics */
-html, body{ overflow-x: hidden; font-family: "Asap-Regular"; top:0; left: 0: ; margin:0; font-size:14px; font-weight:400;letter-spacing: 0.03em; line-height:1.5; color:#737378; text-align:left; background-color:#fff }
+html, body{  /*scroll-behavior: smooth;*/  overflow-x: hidden; font-family: "Asap-Regular"; top:0; left: 0: ; margin:0; font-size:14px; font-weight:400;letter-spacing: 0.03em; line-height:1.5; color:#737378; text-align:left; background-color:#fff }
 body.modalOpen { overflow: hidden;   height: 99vh; }
 
 * {  box-sizing: border-box; position: relative;   }
 img{ max-width: 100%; height: auto; }
 ul{ margin: 0; display: block; text-align: left; padding: 0; }
 li{ margin: 0.2em 0;  list-style: none; min-height:1.6em; padding-left: 24px; background-repeat:  no-repeat; background-size: 16px; background-position: 0 3px; padding-bottom: 10px; }
-
+ul.small_list{margin:0 0 15px}
+ul.small_list li{background: none;list-style: disc;padding: 0px;margin:0;margin-left: 15px;}
 ::selection {  background:rgba(0,0,0,0.07) }
 
 /* grid */
@@ -119,6 +120,7 @@ section{ width: 100%; display: block; position: relative;  overflow-x: hidden;  
 .col_50pc{ width: 50%;  float: left; padding: 0 15px}
 .col_66pc{ width: 66.66%; float: left; padding: 0 15px}
 .col_100pc{ width: 100%; float: left; padding: 0 15px}
+
 
 /* utils */
 .center{ text-align: center;}
@@ -135,13 +137,13 @@ a:hover{color: #595B60; }
 .titre_bgcolor{  margin: 10px 0 30px 0 }
 .titre_bgcolor span{ font-family:"Asap-Bold"; font-size: 18px; color: #fff; background-color:var(--main-color); line-height: 1.3em; padding: 3px 5px 3px 5px;  }
 .titre_Bold {  font-size: 14px;  font-family: "Asap-Bold"; margin: 0 0 15px 0; clear: both; display: block;}
-.titre_majBold {  font-size: 14px; text-transform: uppercase; font-family: "Asap-Bold"; margin: 0 0 10px 0; clear: both; display: block;}
+.titre_majBold {  font-size: 14px; text-transform: uppercase; font-family: "Asap-Bold"; margin: 0 0 10px 0; clear: both; display: block;padding:0;}
 .titre_majBoldColor{ font-family: "Asap-Regular"; text-align: left; font-size: 14px; text-transform: uppercase; color:var(--main-color);  font-family: "Asap-Bold"; margin: 10px 0; clear: both; display: block;}
 .txt_exergue{ color:var(--main-color);  font-family: "Andada-Italic"; font-size: 28px; padding: 0px 0 20px 20px}
 .txt_exergue2{ color:var(--main-color);  font-family: "Andada-Italic"; font-size: 22px; padding: 0px 0 20px 20px}
 .txt_bigIntro{  color:var(--main-color);  font-family: "Andada-Italic"; font-size: 22px; text-align: center; padding: 40px 10% ; line-height: 1.6em;  }
 .txt_bigIntroMaxi{  color:var(--main-color);  font-family: "Andada-Italic"; font-size: 28px; text-align: center; padding: 40px 10% ; line-height: 1.6em;  }
-.titre_h2{ display: inline; color:var(--main-color); font-family: "Asap-Regular"; font-size: 38px; text-transform: uppercase; text-align: center; margin: 80px 0; line-height: 1.8em; }
+.titre_h2{ display: inline-block; color:var(--main-color); font-family: "Asap-Regular"; font-size: 38px; text-transform: uppercase; text-align: center; margin: 60px 0; line-height: 1.8em; }
 .titre_h2 span{ position: relative;display: inline-block; }
 .titre_h2 span::after { content: ''; width: calc(100% + 20px);  height: 25px; opacity: 0.1; left: -10px; top: 50%; background-color: var(--second-color); position: absolute;  }
 .titre_h2_bandeau{ clear: both;display: inline; background-color:var(--main-color); color: #fff; margin-top: 40px; font-family: "Andada-Italic";  font-size: 36px; text-align: center; padding: .33em 1em; letter-spacing: 0.03em; line-height: 1.6em; }
@@ -150,22 +152,27 @@ a:hover{color: #595B60; }
 .encart_bgColor   a{  color: #fff }
 .encart_bgColor .titre{ color:#fff; line-height: 1.5em;  font-family: "Andada-Italic"; font-size: 22px; padding: 0px; margin: 0; }
 .signature_verbatim{ font-size: 12px; line-height: 17px;   margin-top: -33px; padding-left: 70px; padding-right: 20px;    }
-.bold{ font-weight: bold; font-family: "Asap-Bold"; }
+.bold{ font-weight: 400; font-family: "Asap-Bold"; }
 .maj{ text-transform: uppercase; }
 .asap_bold_italic{ font-family: "Asap-BoldItalic";  }
 .img_80pc{ width: 80%; margin:20px auto; }
 .legende{  font-family: "Asap-BoldItalic"; font-size: 10px; margin-bottom: 10px; }
-.credits_photo{   font-family: "Asap-BoldItalic"; font-size: 10px;  display: inline; z-index: 3; text-align: right; position: absolute; right: 0; bottom: 0; padding: 10px 15px;  color: #000; opacity: 0.5 }
-
+.credits_photo{   font-family: "Asap-BoldItalic"; font-size: 10px;  display: inline; z-index: 3; text-align: right; position: absolute; right: 0; bottom: 0; margin: 5px 15px; padding: 3px; color: #fff; opacity: 0.7 }
+.credits_photo_bg{   font-family: "Asap-BoldItalic"; font-size: 10px;  display: inline; z-index: 3; text-align: right; position: absolute; right: 0; bottom: 0; margin: 5px 15px; padding: 3px;  color: #fff; opacity: 0.7; background-color: rgba(0,0,0,0.5)}
+.credits_photo_black{   font-family: "Asap-BoldItalic"; font-size: 10px;  display: inline; z-index: 3; text-align: right; position: absolute; right: 0; bottom: 0; margin: 5px 15px; padding: 3px;  color: #000; opacity: 0.7; }
+a.bouton{    padding: 3px 10px; background-color: var(--second-color); color: #fff; border-radius: 10px; text-decoration: none;}
+a.bouton:hover{color:#fff; background-color: #595B60}
+sup{font-size: 75%;line-height: 1em;}
 /* ui */
 
 .row_grey{ background-color: #f2f2f2; padding: 35px 15px;  }
 .separation_article{ max-width: 840px; height: 1px; opacity: 0.5; border-bottom: 2px dashed var(--main-color); margin: 80px auto }
-.infographie{ max-width: 70%; margin: 0px 15%}
+.infographie{ max-width: 70%; margin: 40px 15%}
 .txt32px{ font-size:32px }
 
 .img_hachure_container{ padding: 20px 40px 40px 40px; margin-bottom: 40px; display: block; max-width: 730px;  width: 100%;}
-
+.img_container{ margin-bottom: 15px; }
+.photo_container{ margin-bottom: 15px; }
 /* headers */
 
 
@@ -178,7 +185,7 @@ a:hover{color: #595B60; }
 .header_chapitre h1.appear span{transform: translateY(0px); line-height: 1.4em; }
 
 
-.header_chapitre .photo_container{ overflow: hidden; z-index: 2;  position:  absolute;  max-width:1750px; top: 0px; ; left: 50%; transform: translateX(-50%); width: 96%; height: 780px; }
+.header_chapitre .photo_container{ overflow: hidden; z-index: 2;  position:  absolute;  max-width:1750px; top: 0px; ; left: 50%; transform: translateX(-50%); width: 90%; height: 780px; }
 .intro .header_intro { height: 1000px; margin: 0; }
 .intro .header_intro .photo_container{ height: 1000px; }
 
@@ -237,8 +244,8 @@ a:hover{color: #595B60; }
 .top_header .logo_white{ position: absolute; top: 40px; left: 0; width: 200px; z-index: 2}
 
 .top_header .logo{ top:100px; left:100px; width: 200px; }
-.top_header h1{ position: absolute; top: auto; bottom: 100px; letter-spacing: 0.04em; text-shadow: 1px 1px 11px rgba(50, 50, 50, 0.3); left: 0px; width: 100%; margin: auto; color: white; transform: none; font-size: 46px;  font-family: "Asap-Bold"; }
-.top_header h2{ position: absolute; top: 100px; right: 100px;  text-align: right; color: white; transform: none; font-size: 18px; line-height: 1.6em; font-family: "Asap-Bold"; }
+.top_header h1{ position: absolute; top: auto; bottom: 100px; letter-spacing: 0.04em; text-shadow: 1px 1px 11px rgba(50, 50, 50, 0.3); left: 0px; width: 100%; margin: auto; color: white; transform: none; font-size: 42px;   font-family: "Asap-Regular"; }
+.top_header h2{ position: absolute; top: 100px; right: 100px;  text-align: right; color: white; transform: none; font-size: 18px; line-height: 1.6em;font-family: "Asap-Regular"; }
 .top_header h2::after{ content: ''; width: 50px; height: 3px; right: 0; bottom: -17px; background-color: white;  position: absolute;  }
 /* edito */
 
@@ -256,8 +263,18 @@ a:hover{color: #595B60; }
 .appear_pop:nth-child(3n+1){ transition: all .4s .1s ease-out; transform: scale(0); opacity: 0; }
 .appear_pop:nth-child(3n+2){ transition: all .4s .4s ease-out; transform: scale(0);  opacity: 0; }
 .appear_pop:nth-child(3n+3){ transition: all .4s .8s ease-out; transform: scale(0);  opacity: 0; }
-.appear_pop.appear{ transform: scale(1);  opacity: 1; }
+.appear .appear_pop{ transform: scale(1);  opacity: 1; }
+.appear.appear_pop{ transform: scale(1);  opacity: 1; }
 
+.infographie_budget { width: 80%; margin: -80px 10%}
+.infographie_budget img{ position: absolute; width: 100%; top: 0; left: 0; }
+.appear_budget:nth-child(6n+1){ transition: all .4s .1s ease-out; transform: scale(0); opacity: 0; }
+.appear_budget:nth-child(6n+2){ transition: all .4s .4s ease-out; transform: scale(0);  opacity: 0; }
+.appear_budget:nth-child(6n+3){ transition: all .4s .8s ease-out; transform: scale(0);  opacity: 0; }
+.appear_budget:nth-child(6n+4){ transition: all .4s 1.1s ease-out; transform: scale(0); opacity: 0; }
+.appear_budget:nth-child(6n+5){ transition: all .4s 1.4s ease-out; transform: scale(0);  opacity: 0; }
+.appear_budget:nth-child(6n+6){ transition: all .4s 1.8s ease-out; transform: scale(0);  opacity: 0; }
+.appear_budget.appear{ transform: scale(1);  opacity: 1; }
 
 /* chapitre 1*/
 
@@ -367,8 +384,8 @@ li { font-size: 12px; }
         /^^       /^^   /^^
 */
 
-/* .appear_on_scroll{ opacity: 0; transition: opacity .4s  }
-.appear.appear_on_scroll{ opacity: 1  } */
+.appear_on_scroll{ opacity: 0; transition: opacity .4s; }
+.appear.appear_on_scroll{ opacity: 1;  }
 
 
 /*

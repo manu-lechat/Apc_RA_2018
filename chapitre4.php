@@ -18,6 +18,7 @@ ul.small_list li{
 
 
 
+      <i id="chapitre4"></i>
 
     <section class="chapitre4">
 
@@ -25,6 +26,7 @@ ul.small_list li{
       <div class="header_chapitre">
         <div class="photo_container">
           <div class="photo parallax_photo_header"></div>
+          <span class="credits_photo_black">© APC</span>
         </div>
             <div class="hachures"></div>
           <h1 class="appear_on_scroll">
@@ -37,14 +39,15 @@ ul.small_list li{
       <div class="row">
         <p class="txt_bigIntro">
 
-          La transition énergétique est créatrice de solutions d’avenirs et d’évolutions sociétales positives pour les habitants et les territoires. Pour contribuer à l’émergence de dispositifs opérationnels et à l’évolution des pratiques et des métiers, l’agence déploie trois logiques d’actions&#160;:
-          <br>Contribuer aux politiques publiques énergie-climat,
-          <br>Rester en veille sur les nouveaux champs d’actions structurants de la transition énergétique, et identifier les nouveaux métiers, les nouvelles fonctions,
-          <br>Innover et expérimenter.
+          La transition énergétique est créatrice de solutions d’avenirs et d’évolutions sociétales positives pour les habitants et les territoires. Pour contribuer à l’émergence de dispositifs opérationnels et à l’évolution des pratiques et des métiers, l’Agence déploie trois logiques d’actions&#160;:
+          <br>contribuer aux politiques publiques énergie-climat&#8239;;
+          <br>rester en veille sur les nouveaux champs d’actions structurants de la transition énergétique, et identifier les nouveaux métiers, les nouvelles fonctions&#8239;;
+          <br>innover et expérimenter.
 
       </p>
       </div>
 
+            <i id="chapitre41"></i>
 
           <div class="row">
             <h2 class="titre_h2">
@@ -71,7 +74,7 @@ ul.small_list li{
             <span class="content">Plan Climat Air Energie de Paris</span><br>
           </h3>
 
-          <p>Une part importante du travail de 2017 a été consacrée au Nouveau Plan Climat de Paris. L’APC a en effet été mobilisée pour co-organiser des ateliers de concertation avec les acteurs économiques et institutionnels du Plan Climat (voir partie «&#8239;Mobilisation des Acteurs économiques&#8239;»).
+          <p>Une part importante du travail de 2017 a été consacrée au Nouveau Plan Climat de Paris. L’APC a en effet été mobilisée pour co-organiser des ateliers de concertation avec les acteurs économiques et institutionnels du Plan Climat (voir partie «&#8239;Mobilisation des acteurs économiques&#8239;»).
           </p>
           <p>L’APC a aussi livré à la Ville de Paris sa propre contribution au Nouveau Plan Climat sous la forme  d’un «&#8239;Cahier d’Acteurs&#8239;», formulant des propositions pour l’avenir de l’Agence à court et moyen terme en vue d’atteindre l’objectif de neutralité carbone en 2050.
           </p>
@@ -81,9 +84,11 @@ ul.small_list li{
         <div class="col_33pc">
           <div class="img_container">
           <img src="img/chapitre4/atelier.jpg" alt="">
+           <span class="credits_photo">© APC</span>
+
           </div>
 
-          <p class="legende">Atelier "Cahier d'Acteurs de l’Agence Parisienne du Climat", du 17 mars 2017 à la Maison des Acteurs du Paris Durable.</p>
+          <p class="legende">Atelier «&#8239;Cahier d'Acteurs de l’Agence Parisienne du Climat&#8239;», du 17 mars 2017 à la Maison des Acteurs du Paris Durable.</p>
           <p class="encart_bgColor">Plateforme de référence sur le changement climatique à Paris et les énergies, la nouvelle rubrique «&#8239;Plan Climat&#8239;» du site web de l’Agence a attiré plus de 4000 visites.
             </p>
 
@@ -154,13 +159,13 @@ ul.small_list li{
 
           <h4 class="titre_majBold">L’APC fait 9 propositions dont la première&#160;: reconnaître les spécificités de la copropriété.</h4>
           <p>Il s’agit d’un segment spécifique du secteur résidentiel.  Pour favoriser la massification des rénovations énergétiques sur ce segment du marché, celui-ci doit être traité en intégrant ses spécificités&#160;:</p>
-          <ul>
+          <ul class="small_list">
           <li><span class="bold">Temporelle</span>&#160;: les projets s’y inscrivent dans le moyen terme,</li>
           <li><span class="bold">Sociale</span>&#160;: les projets y sont par nature collectifs, partagés, solidaires,</li>
           <li><span class="bold">Organisationnelle</span>&#160;: les projets s’y mènent avec un écosystème professionnel spécifique et avec une gouvernance particulière, condition essentielle du succès du projet.</li>
           </ul>
 
-          <p class="encart_bgColor"><span class="bold">Il ne faut pas avoir peur de la copropriété</span>&#160;: prise dans ses spécificités, elle se rénove. Le travail mené par l’APC avec le déploiement de la plateforme CoachCopro® sur <span class="bold">21 territoires</span> dans les principales agglomérations françaises en donne la preuve.</p>
+          <p class="encart_bgColor"><span class="bold">Il ne faut pas avoir peur de la copropriété</span>&#160;: prise dans ses spécificités, elle se rénove. Le travail mené par l’APC avec le déploiement de la plateforme CoachCopro sur <span class="bold">21 territoires</span> dans les principales agglomérations françaises en donne la preuve.</p>
 
 
 
@@ -173,28 +178,28 @@ ul.small_list li{
               <div class="swiper-wrapper">
 
                   <div class="swiper-slide">
-                    <img src="img/chapitre4/ministre001.jpg">
+                    <div class="photo_container"><img src="img/chapitre4/ministre001.jpg"><span class="credits_photo">© APC</span></div>
                   </div>
                   <div class="swiper-slide">
-                    <img src="img/chapitre4/ministre002.jpg">
+                    <div class="photo_container"><img src="img/chapitre4/ministre002.jpg"><span class="credits_photo">© APC</span></div>
                 </div>
                   <div class="swiper-slide">
-                    <img src="img/chapitre4/ministre003.jpg">
+                    <div class="photo_container"><img src="img/chapitre4/ministre003.jpg"><span class="credits_photo">© APC</span></div>
                 </div>
                   <div class="swiper-slide">
-                    <img src="img/chapitre4/ministre004.jpg">
+                    <div class="photo_container"><img src="img/chapitre4/ministre004.jpg"><span class="credits_photo">© APC</span></div>
                 </div>
                   <div class="swiper-slide">
-                    <img src="img/chapitre4/ministre005.jpg">
+                    <div class="photo_container"><img src="img/chapitre4/ministre005.jpg"><span class="credits_photo">© APC</span></div>
                 </div>
                   <div class="swiper-slide">
-                    <img src="img/chapitre4/ministre006.jpg">
+                    <div class="photo_container"><img src="img/chapitre4/ministre006.jpg"><span class="credits_photo">© APC</span></div>
                 </div>
                   <div class="swiper-slide">
-                    <img src="img/chapitre4/ministre007.jpg">
+                    <div class="photo_container"><img src="img/chapitre4/ministre007.jpg"><span class="credits_photo">© APC</span></div>
                 </div>
                   <div class="swiper-slide">
-                    <img src="img/chapitre4/ministre008.jpg">
+                    <div class="photo_container"><img src="img/chapitre4/ministre008.jpg"><span class="credits_photo">© APC</span></div>
                 </div>
               </div>
               <div class="swiper-pagination diaporama-pagination"></div>
@@ -216,8 +221,7 @@ ul.small_list li{
 <p>Nicolas Hulot et Jacques Mézard se sont rendus sur le chantier de rénovation énergétique d’une copropriété de 67 logements au 24 rue Beccaria, dans le 12<sup>e</sup> arrondissement de Paris. Ils ont pu échanger avec les acteurs du projet&#160;:<br>
 
 <ul class="small_list">
-<li><span class="bold">Anne Girault</span>, Directrice Générale 
-  ,</li>
+<li><span class="bold">Anne Girault</span>, Directrice Générale,</li>
 <li><span class="bold">Paulette Vincent</span>, Présidente du Conseil Syndical,</li>
 <li><span class="bold">Alberto Spalletti</span>, architecte,</li>
 <li><span class="bold">Dimitri Molle</span>, Directeur du bureau d’études Sénova,</li>
@@ -245,13 +249,13 @@ ul.small_list li{
 <ul class="small_list">
 <li><span class="bold">Bruno Lechevin</span>, Président de l’ADEME,</li>
 <li><span class="bold">Nathalie Appere</span>, Présidente de l’ANAH,</li>
-<li><span class="bold">Isabelle Kocher</span>, Présidente d’Engie,</li>
+<li><span class="bold">Isabelle Kocher</span>, Directrice générale d’Engie,</li>
 <li><span class="bold">Caroline Grandjean</span>, Directrice du Logement et de l’Habitat à la Mairie de Paris,</li>
 <li><span class="bold">Jean-Bernard Lévy</span>, PDG d’EDF,</li>
 <li><span class="bold">Valérie Egloff</span>, Vice-présidente à la Communauté d’Agglomération du Havre, chargée du développement durable,</li>
 <li><span class="bold">Jean-Luc Tuffier</span>, Président de la Fédération Française du Bâtiment du Grand Paris,</li>
 <li><span class="bold">Jacques Pestre</span>, Directeur général adjoint de Saint Gobain,</li>
-<li><span class="bold">Bernard Chkroun</span>, Président du conseil de surveillance de la SEM Energie Posit’If,</li>
+<li><span class="bold">Benjamin Chkroun</span>, Président du conseil de surveillance de la SEM Energie Posit’If,</li>
 <li><span class="bold">Patrick Liebus</span>, Président de la CAPEB,</li>
 <li><span class="bold">Danyel Dubreuil</span>, Coordinateur de l’initiative Rénovons&#8239;!</li>
 </ul>
@@ -264,19 +268,19 @@ ul.small_list li{
 
   <div class="col_33pc">
     <ul>
-    <li>Donner une place spécifique à la rénovation énergétique en copropriétés dans le plan logement en identifiant un objectif de rénovation pour la copropriété,</li>
-      <li>Soutenir le déploiement national du CoachCopro® pour en faire un dispositif d’accélération nationale,</li>
-      <li>Reconnaître et financer le métier d’accompagnateur de copropriétés au sein des PRIS dans une phase d’amorçage de 3 à 5 ans,</li>
+    <li>Donner une place spécifique à la rénovation énergétique en copropriétés dans le plan logement en identifiant un objectif de rénovation pour la copropriété.</li>
+      <li>Soutenir le déploiement national du CoachCopro pour en faire un dispositif d’accélération nationale.</li>
+      <li>Reconnaître et financer le métier d’accompagnateur de copropriétés au sein des PRIS dans une phase d’amorçage de 3 à 5 ans.</li>
       <li>Assurer la stabilité et la visibilité des dispositifs de financement des travaux de rénovations énergétiques.</li>
 
   </ul>
   </div>
   <div class="col_33pc">
        <ul>
-        <li>Prouver que la rénovation basse consommation est possible partout sur les territoires,</li>
-        <li>Assurer une traçabilité et une cohérence des différents systèmes d’information et diagnostics tout au long du projet et de la vie de la Copropriété,</li>
-        <li>Accompagner l’évolution des métiers chez les professionnels et organiser la mise en relation avec la demande de rénovation,</li>
-        <li>Développer des outils d’accélération comme les Zones de Rénovations Concertées (ZRC),</li>
+        <li>Prouver que la rénovation basse consommation est possible partout sur les territoires.</li>
+        <li>Assurer une traçabilité et une cohérence des différents systèmes d’information et diagnostics tout au long du projet et de la vie de la Copropriété.</li>
+        <li>Accompagner l’évolution des métiers chez les professionnels et organiser la mise en relation avec la demande de rénovation.</li>
+        <li>Développer des outils d’accélération comme les Zones de Rénovations Concertées (ZRC).</li>
         <li>Communiquer positivement sur la copropriété.</li>
       </ul>
    </div>
@@ -285,6 +289,7 @@ ul.small_list li{
       </div>
 
 
+            <i id="chapitre42"></i>
           <div class="row">
             <h2 class="titre_h2">
               <span>Explorer de nouveaux sujets</span><br>
@@ -323,15 +328,24 @@ ul.small_list li{
             <div class="swiper-container diaporama">
               <div class="swiper-wrapper">
 
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier001.jpg"></div>
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier002.jpg"></div>
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier003.jpg"></div>
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier004.jpg"></div>
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier005.jpg"></div>
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier006.jpg"></div>
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier007.jpg"></div>
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier008.jpg"></div>
-                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier009.jpg"></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier001.jpg">
+                  <span class="credits_photo">© APC</span></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier002.jpg">
+                  <span class="credits_photo">© APC</span></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier003.jpg">
+                  <span class="credits_photo">© APC</span></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier004.jpg">
+                  <span class="credits_photo">© APC</span></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier005.jpg">
+                  <span class="credits_photo">© APC</span></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier006.jpg">
+                  <span class="credits_photo">© APC</span></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier007.jpg">
+                  <span class="credits_photo">© APC</span></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier008.jpg">
+                  <span class="credits_photo">© APC</span></div>
+                  <div class="swiper-slide"><img src="img/chapitre4/urban_learning-eco_quartier009.jpg">
+                  <span class="credits_photo">© APC</span></div>
               </div>
               <div class="swiper-pagination diaporama-pagination"></div>
 
@@ -361,9 +375,8 @@ ul.small_list li{
                  <a href="http://www.apc-paris.com/brochure-urban-learning" target="_blank"><img src="img/chapitre4/urban_learning_couv.png" alt=""></a>
                 Urban Learning, synthèse des résultats en Français, édité par Agence Parisienne du Climat / Ville de Paris. 2018
               </p>
-             <ul>
-              <li><a href="http://www.apc-paris.com/brochure-urban-learning" target="_blank">Consulter la synthèse des résultats des travaux Urban Learning</a></li>
-             </ul>
+              <p><a href="http://www.apc-paris.com/brochure-urban-learning" class="lien_externe" target="_blank">Consulter la synthèse des résultats des travaux Urban Learning</a></li>
+             </p>
 
 
 
@@ -387,14 +400,16 @@ métier du property manager et de ses nouvelles missions, dans une perspective d
             <p>Le constat part des nouvelles questions liées à la vie des quartiers, à la maîtrise des usages, à la société du partage dans une optique de ville résiliente et bas carbone. Autant de préoccupations socio-économiques et environnementales qui engagent une nouvelle dynamique urbaine. En s’appuyant sur une logique de travail collaboratif, les partenaires du projet d’Eco-gestionnaire, <span class="bold">Icade</span>, <span class="bold">Etude Cheuvreux</span>, <span class="bold">l’Agence Parisienne du Climat</span>, <span class="bold">la Caisse des Dépôts</span>, <span class="bold">Foncia IPM</span>, <span class="bold">Paris Habitat</span> et <span class="bold">Efficacity</span> ont ainsi partagé leurs métiers et croisé leurs approches, pour proposer une démarche innovante visant à répondre aux nouvelles attentes et aspirations de transformation et de gouvernance d’un territoire.</p>
           </div>
           <div class="col_33pc">
-          <ul>
-            <li><a href="http://www.apc-paris.com/system/files/file_fields/2017/11/13/plaquetteeco-gestionnaire-web.pdf" target="_blank">Téléchargez la plaquette de présentation de l’Eco-gestionnaire&#160;: du bâtiment à l’îlot » co-éditée par les sept partenaires du projet.</a></li>
-            <li><a href="http://www.apc-paris.com/article-rubrique/nouveaux-metiers-transition-ecologique" target="_blank">En savoir plus sur les nouveaux métiers de la transition énergétique </a></li>
-          </ul>
+          <p>
+            <a href="http://www.apc-paris.com/system/files/file_fields/2017/11/13/plaquetteeco-gestionnaire-web.pdf" class="lien_externe" target="_blank">Téléchargez la plaquette de présentation de l’Eco-gestionnaire&#160;: du bâtiment à l’îlot » co-éditée par les sept partenaires du projet.</a></li>
+           </p>
+           <p><a href="http://www.apc-paris.com/article-rubrique/nouveaux-metiers-transition-ecologique" class="lien_externe" target="_blank">En savoir plus sur les nouveaux métiers de la transition énergétique </a></li>
+          </p>
           </div>
           </div>
 
 
+                <i id="chapitre43"></i>
 
           <div class="row">
             <h2 class="titre_h2">
@@ -409,13 +424,13 @@ métier du property manager et de ses nouvelles missions, dans une perspective d
         <div class="row">
         <div class="col_33pc">
           <h3 class="titre_bgcolor">
-            <span class="content">Poursuite des travaux sur l’Adaptation </span><br>
+            <span class="content">Poursuite des travaux sur l’adaptation </span><br>
             <span class="content">du territoire au changement climatique</span><br>
           </h3>
-          <p class="txt_intro">Dans le cadre de la stratégie d’adaptation de la ville de Paris et de ses partenariats avec Météo-France et le Forum Météo et Climat, l’APC a travaillé sur deux nouveaux sujets en 2017&#160;: la création de parcours de fraicheurs dans la ville et l’adaptation des réseaux et infrastructures.</p>
+          <p class="txt_intro">Dans le cadre de la stratégie d’adaptation de la ville de Paris et de ses partenariats avec Météo-France et le Forum Météo et Climat, l’APC a travaillé sur deux nouveaux sujets en 2017&#160;: la création de parcours de fraîcheurs dans la ville et l’adaptation des réseaux et infrastructures.</p>
 
           <h4 class="titre_majBoldColor">Ilots et parcours de fraîcheur</h4>
-          <p>L’Agence Parisienne du Climat travaille de manière partenariale avec la Mairie de Paris, l’Atelier Parisien d’Urbanisme (APUR), l’Ecole des Ingénieurs de la Ville de Paris (EIVP), Météo-France et Santé Publique France sur le repérage, la création et la communication envers le grand public «&#8239;d’îlots et parcours de fraîcheur&#8239;» accessibles chaque été à Paris. <span class="bold">L’objectif est qu’aucun Parisien ne se trouve à plus de 7 minutes de marche d’un îlot de fraîcheur d’ici 2020. A ce jour, 700 îlots de fraîcheur ont déjà été identifiés.</span></p>
+          <p>L’Agence Parisienne du Climat travaille de manière partenariale avec la Mairie de Paris, l’Atelier Parisien d’Urbanisme (APUR), l’Ecole des Ingénieurs de la Ville de Paris (EIVP), Météo-France et Santé Publique France sur le repérage, la création et la communication vers le grand public «&#8239;d’îlots et parcours de fraîcheur&#8239;» accessibles chaque été à Paris. <span class="bold">L’objectif est qu’aucun Parisien ne se trouve à plus de 7 minutes de marche d’un îlot de fraîcheur d’ici 2020. A ce jour, 700 îlots de fraîcheur ont déjà été identifiés.</span></p>
 
           <h4 class="titre_majBoldColor">Adaptation des infrastructures<br>et des réseaux</h4>
 
@@ -424,21 +439,33 @@ métier du property manager et de ses nouvelles missions, dans une perspective d
           </div>
 
            <div class="col_66pc">
-              <div class="img_hachure_container hachures"><img src="img/chapitre4/ilot_fraicheur.jpg" alt=""></div>
+              <div class="img_hachure_container hachures">
+                <div class="">
+                <img src="img/chapitre4/ilot-fraicheur.jpg" alt="">
+                <span class="credits_photo">© Jean-Baptiste Gurliat - Mairie de Paris</span>
+                </div>
+
+              </div>
            </div>
 
 
 
 
 <div class="col_33pc">
-  <p>Dans le cadre du 14<sup>e</sup> Forum International de la Météo et du Climat, présidé par Jean Jouzel, l’association Météo&Climat a organisé un colloque sur le thème « Adaptation des infrastructures et des réseaux au changement climatique ». Il s’est tenu le vendredi 24 mars 2017 à l’Université Pierre et Marie Curie (Paris 5<sup>e</sup>).</p>
+  <p>Dans le cadre du 14<sup>e</sup> Forum International de la Météo et du Climat, présidé par Jean Jouzel, l’association Météo&Climat a organisé un colloque sur le thème «&#8239;Adaptation des infrastructures et des réseaux au changement climatique&#8239;». Il s’est tenu le vendredi 24 mars 2017 à l’Université Pierre et Marie Curie (Paris 5<sup>e</sup>).</p>
             <p>Le programme piloté par Anne Girault, directrice générale de l’Agence Parisienne du Climat et administratrice de l’association Météo&Climat, a mis en exergue l’impact du changement climatique sur les infrastructures existantes et surtout sur le renouvellement des réseaux et la conception de structures futures. L’accent a été mis également sur les enjeux économiques et financiers. Le colloque a favorisé le croisement des regards et des disciplines autour de la résilience des infrastructures, la mise en place d’équipements et de processus adaptées et donc moins sensibles aux stress climatiques.</p>
           </div>
           <div class="col_33pc">
-            <a href="https://www.youtube.com/watch?v=HylDhHyXedU" target="_blank"><img src="img/chapitre4/Anne-Girault-interview.jpg" alt=""></a>
-            <ul>
-            <li> <a href="https://www.youtube.com/watch?v=HylDhHyXedU" target="_blank">Voir l’entretien avec Anne Girault</a></li>
-            </ul>
+            <a href="https://www.youtube.com/watch?v=HylDhHyXedU" target="_blank">
+              <div class="">
+
+                <img src="img/chapitre4/Anne-Girault-interview.jpg" alt="">
+                <span class="credits_photo">© APC</span>
+              </div>
+
+            </a>
+             <a href="https://www.youtube.com/watch?v=HylDhHyXedU" class="lien_externe" target="_blank">Voir l’entretien avec Anne Girault</a></li>
+
 
             </div>
                     </div>
@@ -491,17 +518,18 @@ métier du property manager et de ses nouvelles missions, dans une perspective d
 
             <div class="col_33pc">
 
-              <div class="img_container"><img src="img/chapitre4/lisiere-tierce-foret.jpg" alt=""></div>
+              <div class="img_container"><img src="img/chapitre4/lisiere-tierce-foret.jpg" alt=""><span class="credits_photo_bg">© Fieldwork Architecture</span>
+</div>
                <p class="txt_verbatim">«&#8239;Dans notre projet, l’intégration de la végétation est traitée non pas comme de l’agrément, mais plutôt comme une infrastructure indispensable à la ville contemporaine et future.&#8239;»</p>
               <p class="signature_verbatim"><span class="bold">Andrej Bernik</span>, du cabinet Fieldwork architecture et Patricia Robert, de l’association Alteralia, 2017</p>
 
             </div>
 
             <div class="col_33pc">
-              <div class="img_container"><img src="img/chapitre4/defi_Eco.jpg" alt=""></div>
+              <div class="img_container"><img src="img/chapitre4/defi_Eco.jpg" alt=""><span class="credits_photo">© APC</span></div>
               <p class="legende">Source&#160;: E-Green</p>
               <p>
-              <span class="bold">Le Défi Eco’O de E-Green</span>&#160;: ce projet vise à favoriser les économies d’eau, à l’échelle du bâtiment, via l’incitation comportementale (nudge), la gamification (organisation d’un challenge et le suivi de la consommation en temps réel. L’Agence Parisienne du Climat a partagé son expérience de terrain sur l’accompagnement des particuliers à la maitrise d’usage et poursuit la mobilisation de partenaires pour tester l’expérimentation.
+              <span class="bold">Le Défi Eco’O de E-Green</span>&#160;: ce projet vise à favoriser les économies d’eau, à l’échelle du bâtiment, via l’incitation comportementale (nudge), la gamification (organisation d’un challenge et le suivi de la consommation en temps réel. L’Agence Parisienne du Climat a partagé son expérience de terrain sur l’accompagnement des particuliers à la maîtrise d’usage et poursuit la mobilisation de partenaires pour tester l’expérimentation.
               </p>
 
             </div>
