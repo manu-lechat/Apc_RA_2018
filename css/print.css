@@ -1,0 +1,50 @@
+body {
+  -webkit-print-color-adjust: exact !important;
+}
+.top_header{ height: 100%;  }
+.header_chapitre .photo_container{ height: 90%; }
+.bg_img{ max-width: none; height: 100% }
+.top_header .logo{ top: 100px; left: 40px; }
+.top_header h2{ top: 100px;  right: 40px; }
+.top_header h1{ font-size: 24px; bottom: 40px;  }
+
+.saut_de_page{ page-break-before: always; }
+.section{ page-break-before: always; }
+/*.separation_article{ page-break-before: always; display: none;}*/
+.row{  width: 100%; }
+.appear_on_scroll{ opacity: 1 }
+.noprint{ display: none}
+.col_33pc{ width: 33%; float: left; padding: 0 15px}
+.col_50pc{ width: 50%;  float: left; padding: 0 15px}
+.col_66pc{ width: 66%;  float: left; padding: 0 15px}
+
+
+p{   font-size: 10px; line-height: 1.2em;   }
+ul{  font-size: 10px; line-height: 1.2em;   }
+li{  font-size: 10px; line-height: 1.2em; list-style: none; background-size: 12px;}
+.titre_h2{ font-size: 28px; line-height: 1.5em; margin: 40px 0; page-break-before: always;  }
+
+.txt_bigIntro{font-size: 14px; }
+.signature_verbatim {font-size: 8px;line-height: 1.2em;}
+.txt_verbatim{  font-size: 14px; line-height: 1.2em; padding-top: 25px; padding-bottom: 30px; }
+.encart_bgColor{font-size: 10px; line-height: 1.2em;  }
+.encart_bgColor .titre {font-size: 16px; line-height: 1.2em;}
+.titre_bgcolor span{ font-size: 11px;}
+h2.titre_bgcolor{line-height: 0.7em}
+.titre_majBold, { font-size: 10px; }
+.titre_majBoldColor{ font-size: 10px; }
+.txt_exergue{  font-size: 16px;  }
+.txt_exergue2{  font-size: 12px;  }
+.txt_bigIntro{  font-size: 12px;  }
+.txt_bigIntroMaxi{ font-size: 22px;  }
+.header_chapitre{  height: 460px; }
+.titre_h2_bandeau { font-size: 32px;}
+
+.appear_pop{ transform: scale(1)!important; opacity: 1!important;  }
+
+
+
+/*
+body{width: 100%}
+.row{width:19cm;}
+.noprint{ display: none}*/
