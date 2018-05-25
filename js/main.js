@@ -119,7 +119,7 @@ function init_ContentScrollFx() {
 
         for( i=0; i < parallax_photo_header.length; i++ ) {
           parent_y =   getPosition(parallax_photo_header[i].offsetParent.offsetParent).y;
-          setTranslate(0, parent_y * -.2, parallax_photo_header[i]);
+          setTranslate(0, parent_y * -.3, parallax_photo_header[i]);
         };
 
 

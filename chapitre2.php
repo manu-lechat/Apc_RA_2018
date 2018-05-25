@@ -419,9 +419,9 @@ Ce Café-Climat qui a mobilisé principalement les professionnels a permis de d�
           <p>
             Pour l’édition 2017/2018, il est prévu d’ouvrir le défi sur la thématique des déchets et de travailler en partenariat avec : Biocycle, PikPik, et l’association Bon pour le Climat.
           </p>
-          <p class="center"><a href="http://biocycle.fr/" target="_blank"><img src="img/chapitre2/logo-biocycle.jpg" alt="" ></a></p>
-          <p class="center"><a href="http://www.bonpourleclimat.org/" target="_blank"><img src="img/chapitre2/logo-bonpourleclimat.jpg" alt=""></a></p>
-          <p class="center"><a href="http://www.pikpik.org/" target="_blank"><img src="img/chapitre2/logo-pikpik.jpg" alt="" ></a></p>
+         <a href="http://biocycle.fr/" target="_blank"><img src="img/chapitre2/logo-biocycle.jpg" alt="" ></a>
+         <a href="http://www.bonpourleclimat.org/" target="_blank"><img src="img/chapitre2/logo-bonpourleclimat.jpg" alt=""></a>
+         <a href="http://www.pikpik.org/" target="_blank"><img src="img/chapitre2/logo-pikpik.jpg" alt="" ></a>
 
 
 

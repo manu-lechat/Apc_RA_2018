@@ -98,7 +98,7 @@
 
         <div class="col_50pc">
           <h2 class="titre_h2">
-            <span>Publics
+            <span>Nos publics
           </h2>
           <img src="img/intro/publics.svg" alt="" class="infographie appear_on_scroll appear_pop">
         </div>
@@ -397,7 +397,13 @@
               </div>
                 <div class="legende_diaporama">Délégation mexicaine</div>
             </div>
-
+            <div class="swiper-slide">
+             <div class="img_container">
+              <img src="img/chapitre1/international/008.jpg">
+              <span class="credits_photo_black">© APC</span>
+            </div>
+              <div class="legende_diaporama">Anne Girault, Directrice de l'Agence Parisienne du Climat et Lebo Molefe,<br> Directrice des services de Johannesburg</div>
+          </div>
                      </div>
 
                      <div class="swiper-pagination diaporama-pagination"></div>

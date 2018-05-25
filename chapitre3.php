@@ -120,35 +120,47 @@
                           <div class="col_66pc">
 
                             <div class="img_hachure_container hachures">
-<div>
-<img src="img/chapitre3/CoachCopro-mise-en-scene-ordinateur.jpg">
-<span class="credits_photo">© APC</span>
-    </div>
+
+
+               <div class="swiper-container diaporama">
+                          <div class="swiper-wrapper">
+
+                              <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/CoachCopro-mise-en-scene-ordinateur.jpg"><span class="credits_photo">© APC</span></div></div>
+                             <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/Image_bache_APC_coachcopro.jpg"></div></div>
+                            
+                          </div>
+                          <div class="swiper-pagination diaporama-pagination"></div>
+
+                        </div>
+
+
+
                         </div>
 
                             </div>
 
 
                           <div class="col_33pc">
+                            <p class="center">
+                              <img src="img/chapitre3/logo_coach_copro.jpg" alt="" style="width:70%"></p>
 
+                              <h3 class="titre_bgcolor">
+                              <span class="content">Nouveaux services </span><br><span class="content">pour les particuliers </span>
+                              </h3>
+                              <p>
+                              Où trouver un professionnel pour mes travaux ? c’est l’une des questions récurrentes posées au conseillers éco-rénovation de l’APC. Pour répondre à ce besoin très pratique,
+                              l’APC a créé un <a href="http://grandparis.annuaire-coachcopro.com/791369226" target="
 
-                                                <h3 class="titre_bgcolor">
-                                                <span class="content">Nouveaux services </span><br><span class="content">pour les particuliers </span>
-                                                </h3>
-                                                <p>
-                                                Où trouver un professionnel pour mes travaux ? c’est l’une des questions récurrentes posées au conseillers éco-rénovation de l’APC. Pour répondre à ce besoin très pratique,
-                                                l’APC a créé un <a href="http://grandparis.annuaire-coachcopro.com/791369226" target="
-
-                                                "> annuaire des professionnels affiliés au CoachCopro</a> développé en 2017 dans une version accessible désormais en ligne.
-                                                </p>
-                                                                    <p class="encart_bgColor">
-                                                                    En 2018, la plateforme web sera enrichie pour répondre aux spécificités des territoires avec la refonte des pages d’accueil et la simplification du parcours utilisateur. Les fonctionnalités et produits développés sur la métropole parisienne seront intégrés sur d’autres territoires.
-                                                                    </p>
+                              "> annuaire des professionnels affiliés au CoachCopro</a> développé en 2017 dans une version accessible désormais en ligne.
+                              </p>
+                              
 
                           </div>
                   <div class="col_33pc">
-
-                                                                    <img src="img/chapitre3/logo_coach_copro.jpg" alt=""><img src="img/chapitre3/Image_bache_APC_coachcopro.jpg" alt="">
+                    <p class="encart_bgColor">
+                              En 2018, la plateforme web sera enrichie pour répondre aux spécificités des territoires avec la refonte des pages d’accueil et la simplification du parcours utilisateur. Les fonctionnalités et produits développés sur la métropole parisienne seront intégrés sur d’autres territoires.
+                              </p>
+                          
                   </div>
 
                 </div>
@@ -204,9 +216,12 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
                     <span class="content">Une information spécialisée</span><br>
                       <span class="content"> et des rdv en présentiel</span>
                     </h3>
-                    <p><img src="img/chapitre3/visuel-filcopro.jpg" alt="">
+                    <p>
                       <span class="bold">Le Fil’Copro :</span> une newsletter bimestrielle éditée par l’APC en partenariat avec les ALEC de la métropole informe les affiliés sur les services du CoachCopro métropolitain, l’actualité du secteur et les événements professionnels.
+                    
+
                     </p>
+                    <p class="center"><img src="img/chapitre3/visuel-filcopro.jpg" alt="" style="width:60%"></p>
                     <p>
                       <span class="bold">Les Petits Dej’ Info</span> pour partager et échanger sur les retours «&#8239;terrain&#8239;» des affiliés, les services du CoachCopro, l’actualité du marché.
                     </p>
@@ -315,7 +330,7 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
 
                       <img src="img/chapitre3/couv_formation.jpg" alt=""><br><br>
                       <h4 class="titre_Bold">Public de la formation :</h4>
-                      <ul>
+                      <ul class="small_list">
                         <li>Architectes,</li>
                         <li>Bureaux d’études,</li>
                         <li>Entreprises du bâtiment,</li>
@@ -338,9 +353,8 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
                         <p>
                         Une formation a également eu lieu en décembre en collaboration avec le CAUE 94 à destination d’une fédération des professionnels de l’immobilier.
                         </p>
-                        <ul>
-                          <li><a href="http://www.apc-paris.com/publication/formation-syndic-renovation-energetique-coproprietes" target="_blank">Consulter le programme de formation 2018</a></li>
-                        </ul>
+                        <p><a class="lien_externe" href="http://www.apc-paris.com/publication/formation-syndic-renovation-energetique-coproprietes" target="_blank">Consulter le programme de formation 2018</a></li>
+                        </p>
 
 <br>
                           <p class="txt_intro">Enfin, l’APC a également testé un nouveau format pour faciliter l’accès à la formation et les initier à la rénovation énergétique : le webinaire.</p>
@@ -457,18 +471,25 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
                     </h2>
                     <p class="txt_intro">En France, cette plateforme accompagne avec succès des copropriétaires (côté demande) et des professionnels du bâtiment (côté offre). Le CoachCopro est utilisé par des collectivités, des Agences Locales de l’Energie et du Climat (ALEC), des Espaces Info-Energie ou PRIS, des opérateurs Anah et des CAUE, Il est porté par des territoires notamment des Régions et des Métropoles.</p>
                     <p class="txt_verbatim">200 conseillers en France regroupés au sein d’un réseau animé par l’APC utilisent le CoachCopro !</p>
+                                        <p>À fin 2017, avec ses territoires partenaires, le CoachCopro est disponible pour 250 000 des 500 000 copropriétés du territoire national, soit 50% des copropriétés françaises.  Les perspectives pour 2018 permettent d’envisager que plus de 60% des copropriétés du territoire national auront accès aux services de la plateforme d’ici moins de 1 an.</p>
 
 
                   </div>
                   <div class="col_33pc">
-                    <p>À fin 2017, avec ses territoires partenaires, le CoachCopro est disponible pour 250 000 des 500 000 copropriétés du territoire national, soit 50% des copropriétés françaises.  Les perspectives pour 2018 permettent d’envisager que plus de 60% des copropriétés du territoire national auront accès aux services de la plateforme d’ici moins de 1 an.
-Ces déploiements accompagnent à chaque fois la montée en charge et en compétence des structures accompagnatrices dans le secteur de la rénovation en copropriété, notamment dans le cadre de la mise en œuvre des Plateformes Territoriales de la Rénovation Energétique (PTRE) soutenues par l’ADEME.
+<p>Ces déploiements accompagnent à chaque fois la montée en charge et en compétence des structures accompagnatrices dans le secteur de la rénovation en copropriété, notamment dans le cadre de la mise en œuvre des Plateformes Territoriales de la Rénovation Energétique (PTRE) soutenues par l’ADEME.
                     </p>
-                   <p class="encart_bgColor">Nombre d’entités locales inscrites sur la plateforme en 2017 : <span class="bold">21</bold></p>
+                  
+                   <div class="photo_container">
+                          <img src="img/chapitre3/illus_ccprofrance.jpg" alt="" style="width:96%">
+                        <span class="credits_photo">© SOLIHA</span>
+                    </div>
+                    <p class="legende">Catherine Lafage,<br>Conseillère Rénovation Énergétique à Nantes Métropole</p>
+
                   </div>
                   <div class="col_33pc">
                     <p class="txt_exergue">Les 21 territoires couverts par le CoachCopro en France</p>
-                    <img src="img/chapitre3/carte_territoires.png" alt="">
+                    <p> <img src="img/chapitre3/carte_territoires.png" alt=""></p>
+                <p class="txt_verbatim">Nombre d’entités locales inscrites sur la plateforme en 2017 : <span class="bold">21</bold></p>
 
                   </div>
 

@@ -167,7 +167,7 @@ ul.small_list li{
 
           <p class="encart_bgColor"><span class="bold">Il ne faut pas avoir peur de la copropriété</span>&#160;: prise dans ses spécificités, elle se rénove. Le travail mené par l’APC avec le déploiement de la plateforme CoachCopro sur <span class="bold">21 territoires</span> dans les principales agglomérations françaises en donne la preuve.</p>
 
-
+          <a target="_blank" href="http://www.apc-paris.com/actualite/propositions-lapc-pour-contribuer-objectifs-plan-renovation-energetique-batiments" class="lien_externe">Consulter les propositions détaillées de l’Agence</a>
 
         </div>
 
