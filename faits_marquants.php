@@ -103,7 +103,7 @@
               Création de <span class="bold">3 webinaires à destination des syndics</span> sur la rénovation énergétique en copropriété : savoir décrypter DPE, AUDIT, DTG, Travaux embarqués.
             </p>
             <div class="img_container">
-            <span class="credits_photo">© APC</span> <img src="img/faits_marquants/013.jpg" alt=""></div>
+            <span class="credits_photo">© Icade</span> <img src="img/faits_marquants/013.jpg" alt=""></div>
          </article>
 
 

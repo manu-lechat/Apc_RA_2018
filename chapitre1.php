@@ -23,20 +23,11 @@
           </p>
           <div class="img_container">
             <img src="img/chapitre1/illus_intro.jpg">
-            <span class="credits_photo_bg">© jean-bpatiste gurliat / Mairie de Paris</span>
+            <span class="credits_photo_bg">© Jean-Baptiste Gurliat / Mairie de Paris</span>
           </div>
         </div>
 
         <div class="col_33pc">
-          <div class="img_container">
-            <a href="https://www.youtube.com/watch?v=9d_GHqYAyfw" target="_blank">
-
-            <div class="img_container">
-                 <img src="img/intro/Anne-Girault-APC.jpg" alt="">
-                 <span class="credits_photo">© APC</span>
-               </div>
-          </a></div>
-          <p class="legende">Anne, Girault, directrice de l’Agence Parisienne du Climat "L'accélération de la transition énergétique : une démarche positive pour tous"</p>
 
           <p>
           La concertation menée par l’Agence dans le cadre du nouveau PCAET (voté à l’unanimité au conseil de Paris du 21 mars 2018) a défini les axes suivants pour l’évolution de <span class="bold">la feuille de route de l’APC</span> :
@@ -47,8 +38,17 @@
             <li><span class="bold">La plateforme de référence des questions énergie climat</span> pour les Parisiens et les acteurs économiques qui trouvent avec les services de l’APC, ses événements et son site internet, les éléments de référence et les outils pour agir de façon opérationnelle. </li>
           </ul>
 
+          <div class="img_container">
+            <a href="https://www.youtube.com/watch?v=9d_GHqYAyfw" target="_blank">
 
-          <img src="">
+            <div class="img_container">
+                 <img src="img/intro/Anne-Girault-APC.jpg" alt="">
+                 <span class="picto_video"><img src="img/ui/icon_yt.svg" alt="">  </span>
+                 <span class="credits_photo">© EBG Paris</span>
+               </div>
+          </a></div>
+                    <p class="legende">Anne, Girault, directrice de l’Agence Parisienne du Climat "L'accélération de la transition énergétique : une démarche positive pour tous"</p>
+
           </div>
 
         <div class="col_33pc">
@@ -124,9 +124,9 @@
         <div class="row module_equipe appear_on_scroll">
           <div class="module_equipe_prev"></div>
           <div class="module_equipe_next"></div>
-          <div class="img_container">
+          <div class="img_container photo_principale">
            <img src="img/chapitre1/equipe/Equipe.jpg" alt="">
-           <span class="credits_photo">© APC</span>
+           <span class="credits_photo_bg">© Thibault de Puyfontaine / APC / Photos de l'équipe © Peter Allan</span>
          </div>
           <div class="portrait_container">
 
@@ -135,25 +135,25 @@
                 <div class="swiper-wrapper">
                     <!-- Slides -->
                     <div class="swiper-slide">
-                      <img src="img/chapitre1/equipe/jessica.jpg" alt="">
+                      <div class="img_container"><img src="img/chapitre1/equipe/jessica.jpg" alt=""></div>
                     </div>
                     <div class="swiper-slide">
-                      <img src="img/chapitre1/equipe/benjamin.jpg" alt="">
+                      <div class="img_container"><img src="img/chapitre1/equipe/benjamin.jpg" alt=""></div>
                     </div>
                     <div class="swiper-slide">
-                      <img src="img/chapitre1/equipe/fabrice.jpg" alt="">
+                      <div class="img_container"><img src="img/chapitre1/equipe/fabrice.jpg" alt=""></div>
                     </div>
                     <div class="swiper-slide">
-                      <img src="img/chapitre1/equipe/thomas.jpg" alt="">
+                      <div class="img_container"><img src="img/chapitre1/equipe/thomas.jpg" alt=""></div>
                     </div>
                     <div class="swiper-slide">
-                      <img src="img/chapitre1/equipe/yohann.jpg" alt="">
+                      <div class="img_container"><img src="img/chapitre1/equipe/yohann.jpg" alt=""></div>
                     </div>
                     <div class="swiper-slide">
-                      <img src="img/chapitre1/equipe/beatrice.jpg" alt="">
+                      <div class="img_container"><img src="img/chapitre1/equipe/beatrice.jpg" alt=""></div>
                     </div>
                     <div class="swiper-slide">
-                      <img src="img/chapitre1/equipe/jeremie.jpg" alt="">
+                      <div class="img_container"><img src="img/chapitre1/equipe/jeremie.jpg" alt=""></div>
                     </div>
                 </div>
 
@@ -187,7 +187,7 @@
 
                       </p>
                       <p class="signature_verbatim">
-                        Fabrice Fouriaux, conseiller Info Energie Climat.+
+                        Fabrice Fouriaux, conseiller Info Energie Climat.
                       </p>
                     </div>
                     <div class="swiper-slide">
@@ -211,7 +211,7 @@
                          «&#8239;Une majorité des bâtiments de l’Europe du Nord-Ouest sont de vraies passoires thermiques et ont besoin de rénovations pour contribuer à la réduction de l’empreinte carbone des territoires. Forte d’une expérience d’accompagnement des politiques  publiques en la matière via la création d’un dispositif  global de mobilisation du marché de la rénovation , l’APC est moteur du projet européen Ace-Retrofitting visant à accélérer la rénovation énergétique en copropriété. Je pilote la partie du projet centrée sur la mise en relation entre l’offre et la demande et assure la gestion de toute la partie administrative et financière . Cette activité nécessite d’avoir une vue d’ensemble de tous les projets de l’APC, permet de prendre du recul sur nos propres activités et s’enrichir des questionnements des partenaires beaucoup moins avancés que nous sur le sujet. Changer  d’échelle et pouvoir mutualiser nos connaissances et notre expertise avec nos partenaires allemands, néerlandais, écossais, et belges, c’est passionnant et très enrichissant !»
                       </p>
                       <p class="signature_verbatim">
-                        Béatrice  Bienenfeld
+                        Béatrice  Bienenfeld, responsable de la mobilisation du territoire
                       </p>
                     </div>
                     <div class="swiper-slide">
@@ -251,7 +251,7 @@
               </li>
               <li><span class="bold">Le laboratoire de la transition énergétique</span> avec les décryptages de politiques publiques et des données climatiques et la réalisation d’études opérationnelles ;
               </li>
-              <li><span class="bold">La mobilisation des acteurs économiques</span> en appui de la ville de Paris dans le cadre de la Charte  Paris Action Climat.
+              <li><span class="bold">La mobilisation des acteurs économiques</span> en appui de la Ville de Paris dans le cadre de la Charte  Paris Action Climat.
               </li>
             </ul>
           </p>
@@ -303,7 +303,7 @@
     <a href="http://www.apc-paris.com/fiche-adherent/climespace" target="_blank">Climespace</a>
 
 <br><br>
-<a class="bouton" href="http://www.apc-paris.com/annuaire-adherents"> Consultez l’annuaire des adhérents</a></p>
+<a class="bouton" target="_blank" href="http://www.apc-paris.com/annuaire-adherents">Consultez l’annuaire des adhérents</a></p>
 
 
       </article>
@@ -336,7 +336,7 @@
                     <p class="maj bold">Juillet 2017</p>
                     <p>
                       Depuis 2015, l’APC est partenaire de l’UCCRN. Ce grand réseau mondial regroupe plus de 300 chercheurs et parties prenantes du monde entier. Le récent rapport
-                    <a href="http://uccrn.org/arc3-2/" target="_blank">  «&#8239;Climate Change and Cities -ARC3.2«&#8239;</a> qui présente notamment une étude de cas sur Paris fait référence dans le monde pour son analyse et ses propositions.
+                    <a href="http://uccrn.org/arc3-2/" target="_blank">  «&#8239;Climate Change and Cities -ARC3.2&#8239;»</a> qui présente notamment une étude de cas sur Paris, fait référence dans le monde pour son analyse et ses propositions.
 
   En phase opérationnelle, l’APC participait activement au <a href="http://www.uccrn-europe.org/paris-july-06-2017" target="_blank"> lancement du HUB européen de l’UCCRN.</a>
 
@@ -414,7 +414,7 @@
                          L’APC accompagne plus particulièrement deux villes dans leur Plan Climat et leur volonté de créer une agence dans l’esprit de l’APC :
                        </p>
                          <ul>
-                           <li><span class="bold"> Varsovie</span>, avec la participation de Anne Girault au trophéea <a href="https://pl.ambafrance.org/Inauguration-de-la-5e-edition-du-projet-ECO-MIASTO-2017-le-19-juin-2017" target="_blank"> ECO-MIASTO </a>,</li>
+                           <li><span class="bold"> Varsovie</span>, avec la participation de Anne Girault aux trophées <a href="https://pl.ambafrance.org/Inauguration-de-la-5e-edition-du-projet-ECO-MIASTO-2017-le-19-juin-2017" target="_blank"> ECO-MIASTO </a>,</li>
                            <li><span class="bold"> Johannesburg</span>, dans le cadre d’une mission de coopération de la Ville de Paris.</li>
                          </ul>
                      </article>
@@ -437,7 +437,7 @@
 
 
             <article class="row appear_on_scroll titre_center_container">
-              <h2 class="titre_h2_bandeau">Dans les médias</h2>
+              <h2 class="titre_h2_bandeau">Dans les Médias</h2>
 <div class="row">
                <p class="txt_bigIntro">Présence digitale de l'Agence Parisienne du Climat</p>
               </div>
@@ -448,30 +448,32 @@
 
               <div class="row">
                   <div class="col_33pc" style="text-align:center;text-transform:uppercase">
-                     <img style="height:70px" src="img/chapitre1/pictos-web/picto-fb.svg" alt="" class="appear_on_scroll appear_pop">
-                    <br><span class="bold ">1600</span>
+
+                      <a href="https://www.facebook.com/AparisClimat/" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-fb.svg" alt="" class="appear_on_scroll appear_pop"></a>
+                    <br><span class="bold ">1474 abonnés</span>
                   </div>
                   <div class="col_33pc"  style="text-align:center;text-transform:uppercase">
-                    <img style="height:70px" src="img/chapitre1/pictos-web/picto-linkedin.svg" alt="" class="appear_on_scroll appear_pop">
-                    <br><span class="bold">+50 % abonnés en 1 an</span>
+                     <a href="https://www.linkedin.com/company/3857176/admin/updates/" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-linkedin.svg" alt="" class="appear_on_scroll appear_pop"></a>
+                    <br><span class="bold">+60% abonnés en 1 an</span>
                   </div>
                   <div class="col_33pc"  style="text-align:center;text-transform:uppercase">
-                    <img style="height:70px" src="img/chapitre1/pictos-web/picto-twitter.svg" alt="" class="appear_on_scroll appear_pop">
-                     <br><span class="bold">5460 bonnés</span>
+                   <a href="https://twitter.com/AparisClimat" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-twitter.svg" alt="" class="appear_on_scroll appear_pop"></a>
+                     <br><span class="bold">4933 abonnés</span>
                 </div>
             </div>
              <div class="row">
 
                   <div class="col_33pc"  style="text-align:center;text-transform:uppercase">
-                    <img style="height:70px" src="img/chapitre1/pictos-web/picto-apc.svg" alt="" class="appear_on_scroll appear_pop">
-<br><span class="bold">79 000 visites<br>sur le site institutionnel</span>
+                   <a href="https://www.apc-paris.com" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-apc.svg" alt="" class="appear_on_scroll appear_pop"></a>
+<br><span class="bold">Site APC :<br> 79 300 visites en 2017</span>
                   </div>
                   <div class="col_33pc"  style="text-align:center;text-transform:uppercase">
-                    <img style="height:70px" src="img/chapitre1/pictos-web/picto-newsletter.svg" alt="" class="appear_on_scroll appear_pop">
-        <br><span class="bold">7600 abonnés à la Newsletter</span>
+                   <a href="https://www.apc-paris.com/newsletter" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-newsletter.svg" alt="" class="appear_on_scroll appear_pop"></a>
+        <br><span class="bold">Newsletter : <br>7600 abonnés </span>
                   </div>
                   <div class="col_33pc"  style="text-align:center;text-transform:uppercase">
-                    <img style="height:70px" src="img/chapitre1/pictos-web/picto-youtube.svg" alt="" class="appear_on_scroll appear_pop">
+                   <a href="https://www.youtube.com/user/agenceparisclimat/" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-youtube.svg" alt="" class="appear_on_scroll appear_pop"></a>
+<br><span class="bold">8 playlists thématiques</span>
                   </div>
 
 </div>
@@ -481,7 +483,7 @@
 <p class="txt_bigIntro">Sites animés par l'Agence Parisienne du Climat</p>
             <div class="logos_medias_container">
             <a href="https://www.coachcopro.com/" target="_blank"><img src="img/chapitre1/logo_sites/001.jpg" alt="" class="appear_on_scroll appear_pop"></a>
-            <a href="http://www.familles-a-energie-positive.fr/" target="_blank"><img src="img/chapitre1/logo_sites/002.jpg" alt="" class="appear_on_scroll appear_pop"></a>
+            <a href="http://paris.familles-a-energie-positive.fr/" target="_blank"><img src="img/chapitre1/logo_sites/002.jpg" alt="" class="appear_on_scroll appear_pop"></a>
             <a href="http://www.apc-paris.com/" target="_blank"><img src="img/chapitre1/logo_sites/003.jpg" alt="" class="appear_on_scroll appear_pop" style="width:150px; margin-top: 10px" ></a>
             <a href="http://www.paris-green.com/" target="_blank"><img src="img/chapitre1/logo_sites/004.jpg" alt="" class="appear_on_scroll appear_pop" style="width:150px; margin-top: 10px"></a>
             <a href="http://www.apc-paris.com/actualite/hub-tertiaire-plateforme-collaborative-pour-engager-acteurs-tertiaire-service-climat" target="_blank"><img src="img/chapitre1/logo_sites/005.jpg" alt="" class="appear_on_scroll appear_pop" style="width:80px; margin-top: 10px"></a>

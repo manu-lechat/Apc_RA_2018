@@ -74,7 +74,7 @@
                         Le dernier appel à candidature se termine le 30 juin 2018 et l’objectif ambitieux du programme en terme de nombre de bâtiments est en passe d’être atteint tandis qu’il sera dépassé
                         en terme de nombre de logements concernés.
                       </p>
-                      <a target="_blank" href="https://www.youtube.com/watch?v=xwR9VVcAjp8">Visionnez la vidéo de présentation du programme d’accompagnement «&#8239;Eco-rénovons  Paris&#8239;»</a>
+                      <a target="_blank" href="https://www.youtube.com/watch?v=xwR9VVcAjp8" class="lien_externe">Visionnez la vidéo de présentation du programme d’accompagnement «&#8239;Eco-rénovons  Paris&#8239;»</a>
                   </div>
 
                 </div>
@@ -186,7 +186,7 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
                   </div>
                   <div class="col_66pc">
 
-                    <img src="img/chapitre3/pro_chiffres.png" alt="" class="img_80pc">
+                    <img src="img/chapitre3/pro_chiffres.svg" alt="" class="img_80pc">
 
 
                   </div>
@@ -386,10 +386,10 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
                         <div class="swiper-container diaporama">
                           <div class="swiper-wrapper">
 
-                              <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/photo_travaux_001.jpg"><span class="credits_photo">© APC</span></div></div>
-                             <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/photo_travaux_002.jpg"><span class="credits_photo">© APC</span></div></div>
-                             <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/photo_travaux_003.jpg"><span class="credits_photo">© APC</span></div></div>
-                             <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/photo_travaux_004.jpg"><span class="credits_photo">© APC</span></div></div>
+                              <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/photo_travaux_001.jpg"><span class="credits_photo">© Andrieux</span></div></div>
+                             <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/photo_travaux_002.jpg"><span class="credits_photo">© Andrieux</span></div></div>
+                             <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/photo_travaux_003.jpg"><span class="credits_photo">© Andrieux</span></div></div>
+                             <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/photo_travaux_004.jpg"><span class="credits_photo">© Andrieux</span></div></div>
 
                           </div>
                           <div class="swiper-pagination diaporama-pagination"></div>
@@ -433,7 +433,7 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
                          <img src="img/chapitre3/datas_vis.png" alt="">
                     </div>
 
-                      <p><a class="bouton" href="https://paris.coachcopro.com/pages/les-chiffres-cles-de-la-renovation-en-copropriete-sur-la-metropole-parisienne" target="_blank">Consultez les chiffres clés</a>
+                      <p><a class="lien_externe" href="https://paris.coachcopro.com/pages/les-chiffres-cles-de-la-renovation-en-copropriete-sur-la-metropole-parisienne" target="_blank">Consultez les chiffres clés</a>
                   </p>
                 </div>
 

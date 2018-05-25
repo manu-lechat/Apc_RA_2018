@@ -460,6 +460,8 @@ métier du property manager et de ses nouvelles missions, dans une perspective d
               <div class="">
 
                 <img src="img/chapitre4/Anne-Girault-interview.jpg" alt="">
+
+                <span class="picto_video"><img src="img/ui/icon_yt.svg" alt="">  </span>
                 <span class="credits_photo">© APC</span>
               </div>
 

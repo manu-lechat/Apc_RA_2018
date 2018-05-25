@@ -1,12 +1,23 @@
 body {
   -webkit-print-color-adjust: exact !important;
 }
-.top_header{ height: 100%;  }
-.header_chapitre .photo_container{ height: 90%; }
+
+.header_chapitre{height: 12cm; }
+.header_chapitre .photo_container{ height: 90%;}
+.header_chapitre .photo{translate3d(0, 0, 0) !important;}
 .bg_img{ max-width: none; height: 100% }
+
+.top_header{ height: 20cm;  overflow: visible;}
+.top_header .photo_container{ height: 90%; overflow: visible; }
 .top_header .logo{ top: 100px; left: 40px; }
 .top_header h2{ top: 100px;  right: 40px; }
-.top_header h1{ font-size: 24px; bottom: 40px;  }
+.top_header h1{ font-size: 24px; bottom: 40px;max-width: 100%;color: var(--main-color);top: 19.2cm;text-shadow: none;}
+
+.header_chapitre h1 {}
+.titre_h2{ font-size: 28px; line-height: 1.5em; margin: 40px 0; page-break-before: always;  }
+
+/* diaporama */
+.swiper-container-fade .swiper-slide:first-child{opacity: 1 !important}
 
 .saut_de_page{ page-break-before: always; }
 .section{ page-break-before: always; }
@@ -22,7 +33,6 @@ body {
 p{   font-size: 10px; line-height: 1.2em;   }
 ul{  font-size: 10px; line-height: 1.2em;   }
 li{  font-size: 10px; line-height: 1.2em; list-style: none; background-size: 12px;}
-.titre_h2{ font-size: 28px; line-height: 1.5em; margin: 40px 0; page-break-before: always;  }
 
 .txt_bigIntro{font-size: 14px; }
 .signature_verbatim {font-size: 8px;line-height: 1.2em;}
@@ -37,7 +47,7 @@ h2.titre_bgcolor{line-height: 0.7em}
 .txt_exergue2{  font-size: 12px;  }
 .txt_bigIntro{  font-size: 12px;  }
 .txt_bigIntroMaxi{ font-size: 22px;  }
-.header_chapitre{  height: 460px; }
+
 .titre_h2_bandeau { font-size: 32px;}
 
 .appear_pop{ transform: scale(1)!important; opacity: 1!important;  }

@@ -37,7 +37,7 @@
       <article class="row">
         <div class="col_33pc">
 
-          <p class="txt_intro">L’APC informe et sensibilise les citoyens sur le changement climatique à Paris et les moyens d’agir pour réduire les émissions de CO2 et les consommations d'énergie</p>
+          <p class="txt_intro">L’APC informe et sensibilise les citoyens sur le changement climatique à Paris et les moyens d’agir pour réduire les émissions de CO2 et les consommations d'énergie.</p>
 
           <h2 class="titre_bgcolor"><span>Une plateforme de référence</span><br><span> sur le climat à Paris</span></h2>
           <p class="">
@@ -127,7 +127,7 @@
           Ce premier Café-Climat nouvelle formule a été organisé le 3 Juillet à la Recyclerie (18<sup>e</sup> arrondissement), sur le thème de l’alimentation dans un futur bas-carbone. L’idée était de présenter les enjeux théoriques de l’impact carbone de l’alimentation tout en leur proposant de se projeter dans un futur bas-carbone désirable et de faire appel à leurs sens pour une dégustation d’aliments innovants.   </p>
 
           <p class="bold">Deux experts ont ouvert le débat : </p>
-          <p>Patrick Koumarianos, Chef de projet Alimentation du Territoire, Mairie de Paris  et Jean-Luc Fessard, journaliste spécialiste du développement durable et fondateur de l’association Bon Pour le Climat</p>
+          <p>Patrick Koumarianos, Chef de projet Alimentation du Territoire, Mairie de Paris  et Jean-Luc Fessard, journaliste spécialiste du développement durable et fondateur de l’association Bon Pour le Climat.</p>
           <p><span class="bold">Puis 4 startups ont été invitées à pitcher avant une dégustation des aliments proposés dans le cadre de stands en extérieur :</span>
            </p>
            <ul>
@@ -341,8 +341,17 @@ Ce Café-Climat qui a mobilisé principalement les professionnels a permis de d�
               </ul>
 
             </div>
-            <div class="col_66pc">
+            <div class="col_66pc"><a href="https://paris.coachcopro.com/pages/carte-des-coproprietes-renovees" target="_blank">
+              <div class="carte_reno_container appear_on_scroll">
               <img src="img/chapitre2/carte.png" alt="">
+                <img src="img/chapitre2/carte_pictos1.png" alt="">
+                <img src="img/chapitre2/carte_pictos2.png" alt="">
+                <img src="img/chapitre2/carte_pictos3.png" alt="">
+                <img src="img/chapitre2/carte_pictos4.png" alt="">
+                <img src="img/chapitre2/carte_pictos5.png" alt="">
+                <img src="img/chapitre2/carte_pictos6.png" alt="">
+              </div>
+              </a>
             </div>
           </article>
 
@@ -410,9 +419,9 @@ Ce Café-Climat qui a mobilisé principalement les professionnels a permis de d�
           <p>
             Pour l’édition 2017/2018, il est prévu d’ouvrir le défi sur la thématique des déchets et de travailler en partenariat avec : Biocycle, PikPik, et l’association Bon pour le Climat.
           </p>
-          <a href="http://biocycle.fr/" target="_blank"><img src="img/chapitre2/logo-biocycle.jpg" alt="" style="width:60%; margin:0 20%"></a>
-          <a href="http://www.bonpourleclimat.org/" target="_blank"><img src="img/chapitre2/logo-bonpourleclimat.jpg" alt="" style="width:60%; margin:0 20%"></a>
-          <a href="http://www.pikpik.org/" target="_blank"><img src="img/chapitre2/logo-pikpik.jpg" alt="" style="width:60%; margin:0 20%"></a>
+          <p class="center"><a href="http://biocycle.fr/" target="_blank"><img src="img/chapitre2/logo-biocycle.jpg" alt="" ></a></p>
+          <p class="center"><a href="http://www.bonpourleclimat.org/" target="_blank"><img src="img/chapitre2/logo-bonpourleclimat.jpg" alt=""></a></p>
+          <p class="center"><a href="http://www.pikpik.org/" target="_blank"><img src="img/chapitre2/logo-pikpik.jpg" alt="" ></a></p>
 
 
 
@@ -482,15 +491,15 @@ Ce Café-Climat qui a mobilisé principalement les professionnels a permis de d�
                       </ul>
 
                         <p>Enfin, en partenariat avec la Ville de Paris, l’Agence Parisienne du Climat est missionnée pour accompagner la mobilisation des acteurs économiques du territoire, en particulier les entreprises du secteur tertiaire et les grands comptes signataires de la Charte Paris Action Climat.</p>
-
+ <p class="txt_exergue">
+                    En 2017, 140 rencontres<br> ont été proposées.
+                    </p>
 
                   </div>
 
                     <div class="col_66pc">
                       <img src="img/chapitre2/mobilisation-ensemble-libre de droits.jpg" alt="">
-                      <p class="txt_exergue">
-                    En 2017, 140 rencontres<br> ont été proposées.
-                    </p>
+
 
                     </div>
 
@@ -566,7 +575,7 @@ Ce Café-Climat qui a mobilisé principalement les professionnels a permis de d�
                                     <li> Le ravalement et l’isolation thermique avec Abssys et <a href="http://www.harmonie.fr/" target="_blank"> Harmonie </a>,</li>
                                     <li>La végétalisation des toitures et l’agriculture urbaine avec et <a href="http://topager.com/" target="_blank"> Topager</a>,</li>
                                     <li>La ventilation en copropriété avec Airpur et un bureau d’études technique,</li>
-                                    <li>La régulation du chauffage collectif et l’individualisation des frais de chauffage avec <a href="http://www.s2ib-cpzd.fr/"> S2iB </a>et Consultant ESE.</li>
+                                    <li>La régulation du chauffage collectif et l’individualisation des frais de chauffage avec <a href="http://www.s2ib-cpzd.fr/" target="_blank"> S2iB </a>et Consultant ESE.</li>
                                     </ul>
 
 
@@ -679,9 +688,7 @@ Quelques exemples d’entreprises invitées à présenter leurs produits ou leur
                   <img src="img/chapitre2/forum_eco_teaser.jpg" alt="">
                   <p><span class="italic bold"> «&#8239;Il se passe quelque chose en copro&#8239;»</span><br>
                   dira Anne Girault, DG de l’APC, en ouverture du Forum.</p>
-                  <p>
-                  <a href="https://www.youtube.com/watch?v=rzJtXCn14ws&list=PL6OkebEE8pTpLhqXMHyA6SgJeyFxajaI1&index=4" class="lien_externe" target="_blank">Retrouvez la vidéo teaser du Forum 2018</a>
-                    </p>
+
       </div>
 
       <div class="col_66pc">
@@ -692,7 +699,7 @@ Quelques exemples d’entreprises invitées à présenter leurs produits ou leur
                <div class="swiper-slide"><img src="img/chapitre2/forum_2018/001.jpg" alt="">
                <span class="credits_photo">© APC</span></div>
                <div class="swiper-slide"><img src="img/chapitre2/forum_2018/002.jpg" alt="">
-               <span class="credits_photo">© APC</span></div>
+               <span class="credits_photo">© Sébastien Borda / APC</span></div>
                <div class="swiper-slide"><img src="img/chapitre2/forum_2018/003.jpg" alt="">
                <span class="credits_photo">© APC</span></div>
                <div class="swiper-slide"><img src="img/chapitre2/forum_2018/004.jpg" alt="">
@@ -722,7 +729,7 @@ Quelques exemples d’entreprises invitées à présenter leurs produits ou leur
                <div class="swiper-slide"><img src="img/chapitre2/forum_2018/016.jpg" alt="">
                <span class="credits_photo">© APC</span></div>
                <div class="swiper-slide"><img src="img/chapitre2/forum_2018/017.jpg" alt="">
-               <span class="credits_photo">© APC</span></div>
+               <span class="credits_photo">© Sébastien Borda / APC</span></div>
            </div>
            <div class="swiper-pagination diaporama-pagination"></div>
          </div>
