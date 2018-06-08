@@ -301,6 +301,9 @@ sup{font-size: 75%;line-height: 1em;}
 .swiper-wrapper{ width: 100%; height: auto; }
 .swiper-slide{ width: 100%; height: auto; }
 
+.swiper-container-fade .swiper-slide-duplicate-active{ opacity: 1; }
+.swiper-container-fade .swiper-slide-active{ opacity: 1!important; }
+
 /* chapitre 2 */
 .carte_reno_container { position: relative;}
 .carte_reno_container img{ position: absolute; width: 100%; top: 0; left: 0; opacity: 0; transform: scale(0);}
@@ -368,6 +371,12 @@ li { font-size: 12px; }
 
 @media (max-width: 640px){
 
+  .col_33pc,
+  .col_50pc,
+  .col_66pc,
+  .col_100pc{ width: 100%; float: none; overflow-x: hidden; padding: 0 5vw; }
+  .social_activity .col_33pc{ width: 50%;  float: left; height: 160px;}
+  p{ }
   .legende_diaporama { font-size: 12px; }
   .titre_bgcolor span {  font-size: 16px; }
   .titre_h2_bandeau{ font-size: 22px; max-width: 80%}
@@ -377,17 +386,29 @@ li { font-size: 12px; }
   .txt_verbatim {  font-size: 16px;  padding-left: 20px; padding-right: 20px; }
   .header_chapitre h1 {    font-size: 18px; }
   .titre_h2 span::after {    height: 14px; }
-  .header_chapitre {      height: 120vw; }
-
-  .col_33pc,
-  .col_50pc,
-  .col_66pc,
-  .col_100pc{ width: 100%; float: none; overflow-x: hidden;}
-  .logos_medias_container img{     width: 60px!important;  margin: 20px 10px!important; }
+  .header_chapitre {      height: 100vw; }
+  .module_equipe_prev { z-index: 110; left: 20px; top: 90px; transform: translateX(0); }
+  .module_equipe_prev:hover{ transform:translateX(0px) scale(1);  }
+  .module_equipe_next { z-index: 110; left: auto; top: 90px; right: 20px;  transform: translateX(0); }
+  .module_equipe_next:hover{ transform:translateX(0px) scale(1);  }
+  .infographie_budget{ width: 100%; margin: 0px 0; }
+  .top_header .logo{     top: 4vh;    left: 100px;    width: 50%;}
+  .header_chapitre .photo{ height: 100%; margin-top: 40px; height: 300px; }
+  .intro .header_chapitre {  height: 100vh; }
+  .intro .top_header h2 { top: 63vh; right: 73px; }
+  .intro .header_chapitre h2::after {  right: 65px; }
+  .intro .header_chapitre h1 { top: 73vh; bottom: auto;  max-width: none; width: 100%; padding: 0 40px; ; position: absolute; font-size: 16px;  }
+  .intro .header_chapitre h1 br{ display: none; }
+  .logos_medias_container img{     width: 70px;  margin: 20px 10px!important; }
   .module_equipe .verbatim_container {    width: 100vw!important;    padding: 10px;    margin: 0px auto 0px auto;}
 .swiper_equipe_verbatims{ width: 100%!important; float: none; overflow-x: hidden; margin: 0; }
   .module_equipe .verbatim_container .swiper-slide{ width: 100%!important; float: none; overflow-x: hidden;}
   .module_equipe .portrait_container { margin-right: 50%; transform: translateX(50%); z-index: 11; }
+  /* nav */
+  .cd-nav .cd-navigation-wrapper{ padding: 0; }
+  .cd-nav h2 { margin-left: 0; }
+  .cd-nav li {  width: 100%; padding: 0 15px; margin: 15px 0; text-align: center; }
+  .cd-nav h1{ margin: 0; padding: 5px;  }
 }
 
 

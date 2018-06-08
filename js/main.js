@@ -69,7 +69,7 @@ function init_ContentScrollFx() {
         if (isScrolling == false) {
             window.requestAnimationFrame(function() {
                 scrolling(e);
-                Paralax();
+                if(window.innerWidth>660){ Paralax(); }  
                 isScrolling = false;
             });
         }

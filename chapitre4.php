@@ -293,7 +293,8 @@ ul.small_list li{
           <div class="row">
             <h2 class="titre_h2">
               <span>Explorer de nouveaux sujets</span><br>
-              <span>et faire émerger les nouveaux métiers</span>
+              <span>et faire émerger </span><br>
+              <span>les nouveaux métiers</span>
               <span>de la transition énergétique</span>
             </h2>
           </div>

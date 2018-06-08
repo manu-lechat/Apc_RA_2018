@@ -750,22 +750,20 @@ Quelques exemples d’entreprises invitées à présenter leurs produits ou leur
 
     <article class="row">
 <div class="col_33pc">
+
+
+
   <p class="titre_majBoldColor">
-L’APC présente aux Salons de la copropriété
-  </p>
-
-
-  <p class="titre_majBold">
     Salon indépendant de la copropriété
   </p>
   <p>
-    Comme en 2016, l’APC avait son propre stand au salon. Une centaine de personnes ont pu rencontrer les conseillers Info-Energie Climat de l'Agence APC sur ces deux journées, soit une baisse de 50% par rapport à 2016. En parallèle, l’APC a animé 3 conférences sur Eco-rénovons, le rôle des syndics et l’audit global (une quarantaine de participants au total).
+    Comme en 2016, l’APC avait son propre stand au salon. Une centaine de personnes ont pu rencontrer les conseillers Info-Energie Climat de l'Agence sur ces deux journées. En parallèle, l’APC a animé 3 conférences sur Eco-rénovons Paris, le rôle des syndics et l’audit global (une quarantaine de participants au total).
 
   </p>
 
-  <p class="titre_majBold">Salon national de la copropriété </p>
+  <p class="titre_majBoldColor">Salon national de la copropriété </p>
   <p>
-    L’APC était présente sur le stand de l’ADEME. Sur le corner CoachCopro, presque 200 personnes en 2 jours ont échangé avec des conseillers de l’APC, soit une baisse d’environ 30% par rapport à 2015. L’APC est intervenue lors de 2 conférences (Eco-rénovons Paris et les étapes de la rénovation énergétique) : une centaine de personnes ont assisté à ces deux conférences.
+    L’APC était présente sur le stand de l’ADEME. Sur le corner CoachCopro, presque 200 personnes en 2 jours ont échangé avec des conseillers de l’APC. L’APC est intervenue lors de 2 conférences (Eco-rénovons Paris et les étapes de la rénovation énergétique) : une centaine de personnes ont assisté à ces deux conférences.
 
   </p>
 </div>
@@ -823,7 +821,7 @@ L’APC présente aux Salons de la copropriété
 
         <p class="titre_majBoldColor">Nouveau : <br>la mise en place de task forces dès 2017</p>
         <p>
-          En 2017, les ateliers ont évolué vers des formats plus agiles avec la création de task forces. Chaque communauté est copiloté par la Ville de Paris et l’Agence avec l’appui d’un partenaire identifié comme tête de réseau.
+          En 2017, les ateliers ont évolué vers des formats plus agiles avec la création de task forces. Chaque communauté est copilotée par la Ville de Paris et l’Agence avec l’appui d’un partenaire identifié comme tête de réseau.
         </p>
     <img src="img/chapitre2/TaskForce_001.jpg" alt="">
 <br><br>

@@ -30,7 +30,8 @@
           <div class="row">
             <h2 class="titre_h2">
               <span>Eco-Rénovons Paris :</span><br>
-              <span> booster les travaux de rénovation  </span> </h2>
+              <span> booster les travaux </span><br>
+              <span>de rénovation  </span> </h2>
           </div>
 
 
@@ -82,8 +83,10 @@
                       <i id="chapitre32"></i>
           <div class="row ">
             <h2 class="titre_h2">
-              <span>CoachCopro Métropolitain : </span><br>
-              <span> le fer de lance de l’accompagnement </span><br>
+              <span>CoachCopro </span><br>
+              <span>Métropolitain : </span><br>
+              <span> le fer de lance de </span><br>
+              <span>l’accompagnement </span><br>
               <span> de la rénovation</span> </h2>
           </div>
 
@@ -127,7 +130,7 @@
 
                               <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/CoachCopro-mise-en-scene-ordinateur.jpg"><span class="credits_photo">© APC</span></div></div>
                              <div class="swiper-slide"><div class="photo_container"><img src="img/chapitre3/Image_bache_APC_coachcopro.jpg"></div></div>
-                            
+
                           </div>
                           <div class="swiper-pagination diaporama-pagination"></div>
 
@@ -153,14 +156,14 @@
 
                               "> annuaire des professionnels affiliés au CoachCopro</a> développé en 2017 dans une version accessible désormais en ligne.
                               </p>
-                              
+
 
                           </div>
                   <div class="col_33pc">
                     <p class="encart_bgColor">
                               En 2018, la plateforme web sera enrichie pour répondre aux spécificités des territoires avec la refonte des pages d’accueil et la simplification du parcours utilisateur. Les fonctionnalités et produits développés sur la métropole parisienne seront intégrés sur d’autres territoires.
                               </p>
-                          
+
                   </div>
 
                 </div>
@@ -218,7 +221,7 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
                     </h3>
                     <p>
                       <span class="bold">Le Fil’Copro :</span> une newsletter bimestrielle éditée par l’APC en partenariat avec les ALEC de la métropole informe les affiliés sur les services du CoachCopro métropolitain, l’actualité du secteur et les événements professionnels.
-                    
+
 
                     </p>
                     <p class="center"><img src="img/chapitre3/visuel-filcopro.jpg" alt="" style="width:60%"></p>
@@ -457,7 +460,8 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
 
           <div class="row ">
             <h2 class="titre_h2">
-            <span>Le déploiement du CoachCopro</span><br>
+            <span>Le déploiement </span><br>
+            <span>du CoachCopro</span><br>
             <span>en France & en Europe</span> </h2>
           </div>
 
@@ -478,10 +482,10 @@ L’objectif est d’aider les entreprises à se faire connaître des particulie
                   <div class="col_33pc">
 <p>Ces déploiements accompagnent à chaque fois la montée en charge et en compétence des structures accompagnatrices dans le secteur de la rénovation en copropriété, notamment dans le cadre de la mise en œuvre des Plateformes Territoriales de la Rénovation Energétique (PTRE) soutenues par l’ADEME.
                     </p>
-                  
+
                    <div class="photo_container">
                           <img src="img/chapitre3/illus_ccprofrance.jpg" alt="" style="width:96%">
-                        <span class="credits_photo">© SOLIHA</span>
+                        <span class="credits_photo">© Nantes Métropole</span>
                     </div>
                     <p class="legende">Catherine Lafage,<br>Conseillère Rénovation Énergétique à Nantes Métropole</p>
 

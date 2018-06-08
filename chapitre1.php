@@ -247,9 +247,9 @@
 
             </p>
             <ul>
-              <li><span class="bold">L’accélération de la rénovation de l’habitat privé</span> avec le conseil grand public, l’accompagnement des copropriétés, l’animation de filières professionnelles et d’un observatoire de la rénovation énergétique des copropriétés à l’échelle de la Métropole du Grand Paris.
+              <li><span class="bold">L’accélération de la rénovation de l’habitat privé</span> avec le conseil grand public, l’accompagnement des copropriétés, l’animation de filières professionnelles et d’un observatoire de la rénovation énergétique des copropriétés à l’échelle de la Métropole du Grand Paris;
               </li>
-              <li><span class="bold">Le laboratoire de la transition énergétique</span> avec les décryptages de politiques publiques et des données climatiques et la réalisation d’études opérationnelles ;
+              <li><span class="bold">Le laboratoire de la transition énergétique</span> avec les décryptages de politiques publiques et des données climatiques et la réalisation d’études opérationnelles;
               </li>
               <li><span class="bold">La mobilisation des acteurs économiques</span> en appui de la Ville de Paris dans le cadre de la Charte  Paris Action Climat.
               </li>
@@ -452,7 +452,7 @@
 
 
 
-              <div class="row">
+              <div class="row social_activity ">
                   <div class="col_33pc" style="text-align:center;text-transform:uppercase">
 
                       <a href="https://www.facebook.com/AparisClimat/" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-fb.svg" alt="" class="appear_on_scroll appear_pop"></a>
@@ -466,8 +466,7 @@
                    <a href="https://twitter.com/AparisClimat" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-twitter.svg" alt="" class="appear_on_scroll appear_pop"></a>
                      <br><span class="bold">4933 abonnés</span>
                 </div>
-            </div>
-             <div class="row">
+
 
                   <div class="col_33pc"  style="text-align:center;text-transform:uppercase">
                    <a href="https://www.apc-paris.com" target="_blank"><img style="height:70px" src="img/chapitre1/pictos-web/picto-apc.svg" alt="" class="appear_on_scroll appear_pop"></a>
