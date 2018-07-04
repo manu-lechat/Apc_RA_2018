@@ -13,7 +13,7 @@ p.credit {font-size: 10px}
       <svg version="1.1"
    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
    x="0px" y="0px" width="54px" height="54px" viewBox="-11 -17 54 54" overflow="visible" enable-background="new -11 -17 54 54" xml:space="preserve">
-      <polyline fill="none" stroke="#FFFFFF" stroke-width="2.0076" stroke-miterlimit="10" points="0.71,15.616 14.907,1.42 
+      <polyline fill="none" stroke="#FFFFFF" stroke-width="2.0076" stroke-miterlimit="10" points="0.71,15.616 14.907,1.42
   29.101,15.614 "/>
   </svg>
     </a>
@@ -26,13 +26,17 @@ p.credit {font-size: 10px}
   <p class="center adresses"><a href="http://www.apc-paris.com" target="_blank">www.apc-paris.com</a></p>
 
 </div>
-<div class="col_33pc">
-  <p></p>
-  <p></p>
-  <p></p>
-<p class="center credit">Réalisation :
-<a href="http://www.e-lechat.com/" target="_blank">Manu Lechat</a> et 
+<div class="col_33pc center">
+
+<p class="credit">Réalisation :
+<a href="http://www.e-lechat.com/" target="_blank">Manu Lechat</a> <br>et
 <a href="http://www.samueljan.fr/" target="_blank">Samuel Jan</a>
+<br><br>
+Rapport réalisé avec <br>le soutien financier de :
+</p>
+
+<img src="img/ui/ADEME_IdF_logo_v.png" class="logo_ademe">
+
 </p></div>
 
 </div>

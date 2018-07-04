@@ -317,6 +317,8 @@ sup{font-size: 75%;line-height: 1em;}
 
 .carte_reno_container.appear img{ opacity: 1; transform: scale(1); }
 
+.logo_ademe{ width: 80px; float: left; margin: 0 0 0 20px;  display: inline-block;  }
+p.credit{ text-align: right; float: left;  padding-top: 10px;  font-size: 12px;  display: inline-block;}
 /*
 
   /^^                      /^^            /^^                      /^^         /^^
@@ -409,6 +411,8 @@ li { font-size: 12px; }
   .cd-nav h2 { margin-left: 0; }
   .cd-nav li {  width: 100%; padding: 0 15px; margin: 15px 0; text-align: center; }
   .cd-nav h1{ margin: 0; padding: 5px;  }
+  .logo_ademe{ float: none; margin-top: 30px; }
+  p.credit{ float: none; padding-top: 0}
 }
 
 
